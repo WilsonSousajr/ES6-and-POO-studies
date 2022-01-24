@@ -1,5 +1,5 @@
 
-
+// Literal objects - ECMASCRIPT 6
 
 
 
